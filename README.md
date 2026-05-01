@@ -12,4 +12,4 @@ browse the recent updates for lightspeed
 
 [Fast Blocking](https://github.com/frostedbrowser/lightspeedfilterupdates/fastblocking.md)
 
-[ZeroDay Blocking](https://github.com/frostedbrowser/lightspeedfilterupdates/fastblocking.md)
+[ZeroDay Blocking](https://github.com/frostedbrowser/lightspeedfilterupdates/zerodayblocking.md)
