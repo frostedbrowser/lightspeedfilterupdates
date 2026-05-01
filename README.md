@@ -1,5 +1,15 @@
 # lightspeed system patch notes and updates
-browse the recent updates up to april 21 2026.
+browse the recent updates for lightspeed
 
 
-[live-detections](https://github.com/frostedbrowser/lightspeedfilterupdates/live.md)
+[Live Detections](https://github.com/frostedbrowser/lightspeedfilterupdates/live.md) (recent) (very bad)
+
+[BYOD Filtering](https://github.com/frostedbrowser/lightspeedfilterupdates/byod.md)
+
+[patches](https://github.com/frostedbrowser/lightspeedfilterupdates/update-april2326.md)
+
+[Gemini Block](https://github.com/frostedbrowser/lightspeedfilterupdates/geminiblock.md)
+
+[Fast Blocking](https://github.com/frostedbrowser/lightspeedfilterupdates/fastblocking.md)
+
+[ZeroDay Blocking](https://github.com/frostedbrowser/lightspeedfilterupdates/fastblocking.md)
